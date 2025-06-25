@@ -3,9 +3,9 @@
 
 # Internship Project Summary – CRTS System
 
-📅 Internship Period: October 2024 – March 2025
-📅 Project Hands-on Period: January 2025 – March 2025
-🏢 Company: Silverlake Innovation Partners Sdn Bhd  
+📅 **Internship Period**: October 2024 – March 2025  
+🛠️ **Project Hands-on Period**: January 2025 – March 2025  
+🏢 **Company**: Silverlake Innovation Partners Sdn Bhd  
 👨‍💻 Role: Full Stack Web Developer Intern  
 🎓 Final Year Project / Internship Completion – Bachelor of Computer Science (Software Development), UTeM
 
